@@ -1,0 +1,35 @@
+--------------REACT APP TO MANAGE LIST OF PARTICIPANTS-----------
+
+------------
+HOW TO USE
+------------
+
+----ADD PARTICIPANT-----
+
+1- You can add new participant by clicking on 'add New' button.
+2- A modal box will be opened just fill the form.
+3- Be sure to enter valid data otherwise system will through error with indication.
+4- You can close form by clicking "cancel" or clicking outside the form.
+
+
+----EDIT PARTICIPANT-----
+
+1- By clicking on any field of any row,it'll become editable
+2- just edit the row and click outside the that particular row to save edit data or just hit enter
+
+
+----DELETE PARTICIPANT-----
+
+1- Each rows have cross icon. By clicking on trash icon a confirmation message will pop up.
+2- Hit ok to delete row or you can cancel it.
+
+
+----SEARCH PARTICIPANT-----
+
+1- You can search any record of any column.
+2- Above Header there are search fields to search relevent column data.
+
+
+----SORT PARTICIPANT-------
+
+1- Click on participants header to sort the list.
